@@ -1,0 +1,2 @@
+# KUSA.gg
+Discord bot
